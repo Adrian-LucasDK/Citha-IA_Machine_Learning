@@ -69,4 +69,4 @@ def formas ():
     else:
         print("Opção inválida.")
 
-formas ()
+formas()
