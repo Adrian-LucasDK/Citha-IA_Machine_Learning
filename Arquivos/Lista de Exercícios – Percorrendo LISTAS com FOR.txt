@@ -1,0 +1,112 @@
+Lista de Exercícios – Estrutura for e Listas em Python
+
+1. Imprima todos os itens de uma lista de compras.
+
+lista_compras = ['arroz', 'feijão', 'macarrão', 'azeite', 'farinha', 'açúcar']
+
+
+2. Calcule e exiba a soma de todos os números em uma lista.
+
+numeros = [10, 20, 30, 40, 50]
+
+
+3. Conte quantos números ímpares existem em uma lista.
+
+numeros = [1, 4, 7, 10, 13, 16, 19, 22]
+
+
+4. Verifique quais números de uma lista são múltiplos de 5 e imprima-os.
+
+numeros = [5, 10, 13, 20, 25, 28, 30, 33, 40, 45]
+
+
+5. Multiplique todos os valores de uma lista por 2 e armazene em uma nova lista.
+
+numeros = [1, 2, 3, 4, 5]
+
+
+6. Transforme todas as palavras de uma lista de nomes em maiúsculas.
+
+nomes = ['joão', 'maria', 'ana', 'carlos']
+
+
+7. Remova os espaços extras das palavras de uma lista.
+
+palavras = ['   ', ' código  ', '  lista', ' estrutura ']
+
+
+8. Imprima apenas as palavras que começam com a letra "A".
+
+palavras = ['banana', 'abacaxi', 'uva', 'amora', 'laranja', 'acerola']
+
+
+9. Dada uma lista de temperaturas em Celsius, converta todas para Fahrenheit.
+
+celsius = [0, 10, 20, 30, 40, 50]
+
+
+10. Dada uma lista de notas, exiba quais estão acima da média da turma.
+
+notas = [5.0, 7.5, 8.0, 6.0, 9.0, 10.0, 4.5, 3.0]
+
+
+11. Dada uma lista de alunos e suas notas, imprima o nome dos alunos que tiraram nota acima de 7.0.
+
+alunos = ['Ana', 'Bruno', 'Carlos', 'Diana', 'Eduardo']
+notas = [6.5, 8.0, 7.2, 5.5, 9.1]
+
+
+12. Dada uma lista de produtos e preços, exiba quais produtos custam menos de R$ 10,00.
+
+produtos = ['Sabão', 'Detergente', 'Shampoo', 'Condicionador', 'Escova']
+precos = [3.5, 2.0, 15.0, 18.5, 8.0]
+
+
+13. Imprima os funcionários cujo salário é maior que R$ 3000,00.
+
+funcionarios = ['João', 'Mariana', 'Carlos', 'Beatriz', 'Lucas']
+salarios = [2800, 3500, 2700, 4200, 3100]
+
+
+14. Imprima os nomes dos alunos reprovados (nota < 5).
+
+alunos = ['Fernanda', 'Pedro', 'Luana', 'André', 'Gabriela']
+notas = [4.0, 6.5, 3.8, 7.2, 5.0]
+
+
+15. Exiba os clientes que têm mais de 50 anos.
+
+clientes = ['Roberto', 'Júlia', 'Ricardo', 'Carla', 'Sérgio']
+idades = [45, 52, 37, 60, 49]
+
+
+16. Dado um estoque e um mínimo aceitável, informe os produtos abaixo do nível crítico.
+
+produtos = ['Arroz', 'Feijão', 'Macarrão', 'Óleo', 'Açúcar']
+estoque = [50, 200, 30, 10, 90]
+nivel_critico = 40
+
+
+17. Verifique quais produtos de uma lista são mais caros que um determinado valor.
+
+produtos = ['Caderno', 'Caneta', 'Lápis', 'Borracha', 'Estojo']
+precos = [25.0, 2.5, 1.0, 3.0, 20.0]
+limite = 10.0
+
+
+18. Encontre os alunos que atingiram nota máxima.
+
+alunos = ['Alice', 'Bruno', 'Clara', 'Daniel']
+notas = [9.8, 10.0, 7.5, 10.0]
+
+
+19. Encontre os clientes que têm saldo negativo.
+
+clientes = ['Maria', 'José', 'Paula', 'Carlos']
+saldos = [1200, -500, 300, -150]
+
+
+20. Liste os alunos e suas idades.
+
+alunos = ['Gabriel', 'Mariana', 'Sofia']
+idades = [15, 17, 14]
